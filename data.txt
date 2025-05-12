@@ -1,0 +1,5 @@
+Weld Defect Dataset:  https://universe.roboflow.com/search?q=weld%20dataset
+
+NEU-DET：https://gitcode.com/open-source-toolkit/fa031/?utm_source=tools_gitcode&index=top&type=card&&isLogin=1
+
+GC10-DET：https://github.com/lvxiaoming2019/GC10-DET-Metallic-Surface-Defect-Matasets
